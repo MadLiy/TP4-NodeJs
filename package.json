@@ -1,8 +1,8 @@
 {
   "name": "tp4",
-  "version": "1.0.0",
+  "version": "14.0.0",
   "description": "",
-  "main": "sum.test.js",
+  "main": "",
   "scripts": {
     "test": "jest"
   },
